@@ -1,0 +1,9 @@
+word,colour,stim_resp,correct_resp
+RED,red,C,r
+RED,blue,I,b
+BLUE,red,I,r
+BLUE,blue,C,b
+YELLOW,yellow,C,y
+YELLOW,green,I,g
+GREEN,yellow,I,y
+GREEN,green,I,g
